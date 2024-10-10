@@ -11,3 +11,6 @@ Develop SQL queries
 Connect Power BI to your database
 Build a Dashboard
 Make Analysis Recommendations
+
+![Rented_Bikes_Data_Analysis_Dashboard_StarCity_Data](https://github.com/user-attachments/assets/29e02ac3-7061-49b8-a3c2-1fb0ecca1783)
+
